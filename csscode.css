@@ -78,8 +78,8 @@
 }
 .hdiv2_1_tivtext{
     align-self: center;
-    width: 700px;
-    height: 60px;
+    width: 933.33px;
+    height: 80px;
     margin-top: -11px;
     margin-bottom: 152px;
     color:white;
@@ -91,6 +91,7 @@
     font-weight: 400;
     font-style: normal;
     font-variation-settings: "wdth" 100;
+    text-align: center;
 }
 .hdiv2_1_buttons{
     display: flex;
@@ -101,8 +102,8 @@
 }
 .hdiv2_1_button1{
     width: 184px;
-    height: 44px;
-    padding-top: 15px;
+    height: 41.5px;
+    padding-top: 17.5px;
     margin-right: 27px;
     background-color: #69B9FF;
     text-decoration: none;
@@ -121,8 +122,8 @@
 }
 .hdiv2_1_button2{
     width: 244px;
-    height: 44px;
-    padding-top: 15px;
+    height: 41.5px;
+    padding-top: 17.5px;
     background-color: none;
     text-decoration: none;
     text-align: center;
@@ -218,6 +219,8 @@
     height: 388px;
     border-radius: 5px;
     border: 1px solid #DCEBF7;
+    display: flex;
+    justify-content: center;
 }
 .image1{
     position: absolute;
@@ -237,7 +240,7 @@
 .image1text{
     position: absolute;
     top: 200px;
-    left: 45.5px;
+    left: 34.975px;
     height: 40px;
     color: #676770;
     font-size: 27px;
@@ -252,7 +255,7 @@
 .image2text{
     position: absolute;
     top: 200px;
-    left: 56.5px;
+    left: 49.735px;
     height: 40px;
     color: #676770;
     font-size: 27px;
@@ -267,7 +270,7 @@
 .image3text{
     position: absolute;
     top: 200px;
-    left: 59.5px;
+    left: 49.225px;
     height: 16px;
     color: #676770;
     font-size: 27px;
@@ -282,7 +285,8 @@
 .image1text1{
     position: absolute;
     top: 257.33px;
-    left: 8px;
+    left: 4px;
+    right: 4px;
     height: 40px;
     color: #676770;
     font-size: 19px;
@@ -297,7 +301,8 @@
 .image2text1{
     position: absolute;
     top: 257.33px;
-    left: 8px;
+    left: 4px;
+    right: 4px;
     height: 40px;
     color: #676770;
     font-size: 19px;
@@ -312,7 +317,8 @@
 .image3text1{
     position: absolute;
     top: 257.33px;
-    left: 8px;
+    left: 4px;
+    right: 4px;
     height: 40px;
     color: #676770;
     font-size: 19px;
@@ -404,8 +410,8 @@
     left: 20px;
 }
 .image4text1{
-    width: 285px;
-    height: 30px;
+    width: 287px;
+    height: 40px;
     position: absolute;
     top: 429px;
     left: 168.5px;
@@ -440,8 +446,8 @@
     top: 656px;
     left: 189px;
     width: 244px;
-    height: 44px;
-    padding-top: 15px;
+    height: 42.5px;
+    padding-top: 17.5px;
     background-color: none;
     text-decoration: none;
     text-align: center;
@@ -458,8 +464,8 @@
     font-variation-settings: "wdth" 100;
 }
 .image5text1{
-    width: 285px;
-    height: 30px;
+    width: 295px;
+    height: 40px;
     position: absolute;
     top: 429px;
     left: 168.5px;
@@ -494,8 +500,8 @@
     top: 656px;
     left: 189px;
     width: 244px;
-    height: 44px;
-    padding-top: 15px;
+    height: 42.5px;
+    padding-top: 17.5px;
     background-color: none;
     text-decoration: none;
     text-align: center;
@@ -573,7 +579,8 @@
 .mdiv3_1_button1{
     text-decoration: none;
     width: 261.33px;
-    height: 28px;
+    height: 25.66px;
+    padding-top: 2.33px;
     border-radius: 4px;
     background-color: #2E80B6;
     color: white;
@@ -591,7 +598,8 @@
 .mdiv3_1_button2{
     text-decoration: none;
     width: 261.33px;
-    height: 28px;
+    height: 25.66px;
+    padding-top: 2.33px;
     border-radius: 4px;
     background-color: #92A0AD;
     color: white;
@@ -609,7 +617,8 @@
 .mdiv3_1_button3{
     text-decoration: none;
     width: 261.33px;
-    height: 28px;
+    height: 25.66px;
+    padding-top: 2.33px;
     border-radius: 4px;
     background-color: #92A0AD;
     color: white;
@@ -643,6 +652,7 @@
     font-size: 41.33px;
     color: #676770;
     line-height: 36px;
+    text-align: center;
 }
 .mdiv3_1_imgtext_2{
     width: 945.33px;
@@ -654,6 +664,7 @@
     font-variation-settings: "wdth" 100;
     font-size: 17.33px;
     color: #6A859C;
+    text-align: center;
 }
 .mdiv3_1_imgtext_3{
     width: 840px;
@@ -665,6 +676,7 @@
     font-variation-settings: "wdth" 100;
     font-size: 17.33px;
     color: #6A859C;
+    text-align: center;
 }
 .mdiv3_1_imgtext_4{
     width: 913.33px;
@@ -676,6 +688,7 @@
     font-variation-settings: "wdth" 100;
     font-size: 17.33px;
     color: #6A859C;
+    text-align: center;
 }
 
 
